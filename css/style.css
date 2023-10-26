@@ -34,6 +34,6 @@
   /* width: 50%; */
 }
 
-/* .container-price {
-  max-width: 960px;
-} */
+.footer {
+  column-gap: 20px;
+}
